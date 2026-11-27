@@ -1,3 +1,15 @@
+# build
 classes/
 *.class
 *.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.launch
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
